@@ -1,0 +1,14 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "Reminds you to do your exercise with a GIF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daguej",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.58.0"
+  }
+}
